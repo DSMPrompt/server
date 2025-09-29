@@ -5,6 +5,6 @@ The (optional) ESP based MQTT server, for 'multiplayer' like line-by-line show r
 - The server is running an custom, built from scratch version of MQTT to be optimised for ESPs
 
 ## The jankyness
-- It's a bit slow - hopefully we can make it faster.
+- It's fast. Like really fast...
 - No testing for reliability
 - Max 10 clients, 8 connetions each
